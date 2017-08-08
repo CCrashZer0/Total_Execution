@@ -1,0 +1,1 @@
+This is batch file style antivirus. That was created in order to make removing and repairing computers easier.
